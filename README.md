@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @iustinflorian
+- 👀 I’m interested in computer science
+- 🌱 I’m currently learning java & phyton
+- 💞️ I’m looking to collaborate on interesting projects, 
+- 📫 How to reach me: 
